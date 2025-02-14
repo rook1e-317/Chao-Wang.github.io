@@ -1,32 +1,19 @@
-# 站点基础
-title: 姓名xxx的个人主页
-description: "学历xxx | 学校xxx"
-url: "https://bdhehohai.github.io"
-timezone: Asia/Shanghai
-
-# 作者信息
 author:
-  name: 姓名xxx
-  education: 学历xxx
-  university: 学校xxx
-  email: xxx@example.com
-  address: 地址xxx
+  name: "姓名xxx"
+  education: "学历xxx"
+  university: "学校xxx"
+  email: "xxx@example.com"
+  address: "地址xxx"
   research_areas:
-    - 文本挖掘
-    - 知识图谱
+    - "文本挖掘"
+    - "知识图谱"
 
-# 主题配置
-theme: minima
-minima:
-  social_links:
-    email: mailto:xxx@example.com
-    github: https://github.com/bdhehohai
+# 新增社交链接配置
+social:
+  google_scholar: "你的学术主页链接"
+  researchgate: "你的ResearchGate链接"
 
-# 功能扩展
+# 启用高级功能
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
+  - jekyll-sitemap
