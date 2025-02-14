@@ -1,19 +1,9 @@
+title: 王超的个人主页
+description: 本科生 @北京邮电大学
+url: "https://rook1e-317.github.io"
+
 author:
-  name: "姓名xxx"
-  education: "学历xxx"
-  university: "学校xxx"
-  email: "xxx@example.com"
-  address: "地址xxx"
-  research_areas:
-    - "文本挖掘"
-    - "知识图谱"
-
-# 新增社交链接配置
-social:
-  google_scholar: "你的学术主页链接"
-  researchgate: "你的ResearchGate链接"
-
-# 启用高级功能
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  name: 王超
+  university: 北京邮电大学
+  email: wangchao0317@bupt.edu.cn
+  major: 信息工程
