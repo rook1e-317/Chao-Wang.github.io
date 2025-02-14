@@ -3,18 +3,10 @@ layout: default
 title: 王超的个人主页
 ---
 
-## 📚 教育背景
-- **学校**：{{ 北京邮电大学 }}  
-- **学院**：{{ 人工智能学院 }}  
-- **专业**：{{ 信息工程 }}  
-- **预计毕业**：2026年6月
+## 教育背景
+- **学校**：{{ site.author.university }}  
+- **专业**：{{ site.author.major }}  
 
-## 🔍 研究兴趣
-
-
-## 📝 项目经历
-### 文本分类项目（示例）
-
-## 📬 联系方式
-- **邮箱**：{{ wangchao0317.bupt.edu.cn }}  
+## 联系方式
+- **邮箱**：{{ site.author.email }}  
 - **GitHub**：https://github.com/rook1e-317
